@@ -1,6 +1,9 @@
 security:
   basic:
     enabled: false # turn off securing our application endpoints
+  user:
+    name: asentinel
+    password: mypassword
 
 management:
   security:
